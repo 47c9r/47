@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>47 Clan</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #ffffff;
+    color: #111;
+}
+
+header {
+    text-align: center;
+    padding: 40px 20px;
+    border-bottom: 1px solid #eee;
+}
+
+header h1 {
+    font-size: 60px;
+    margin: 0;
+    letter-spacing: 5px;
+}
+
+header p {
+    color: #666;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+}
+
+.player {
+    border: 1px solid #eee;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: 0.2s;
+}
+
+.player:hover {
+    box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+}
+
+.name {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.role {
+    color: #555;
+    margin-bottom: 10px;
+}
+
+.rank {
+    margin: 10px 0;
+    font-weight: bold;
+}
+
+.achievements {
+    margin: 10px 0;
+}
+
+.achievements li {
+    margin-left: 20px;
+}
+
+a {
+    color: #000;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+    <h1>47</h1>
+    <p>Official Clan Roster</p>
+</header>
+
+<div class="container">
+
+    <div class="player">
+        <div class="name">Leanos</div>
+        <div class="role">Founder</div>
+        <div class="rank">Rank: N/A</div>
+        <div>Latest Montage:</div>
+        <a href="https://www.youtube.com/watch?v=chmVPJc2k6c" target="_blank">Watch</a>
+    </div>
+
+    <div class="player">
+        <div class="name">Zaia</div>
+        <div class="role">Owner</div>
+        <div class="rank">PR10 Mid, R10 Mid</div>
+        <div class="achievements">
+            <b>Achievements:</b>
+            <ul>
+                <li>Season 5 Ring (MCL)</li>
+                <li>Season 6 Ring (MCL)</li>
+                <li>Season 7 Ring (MCL)</li>
+                <li>Season 1 Ring (LOC)</li>
+            </ul>
+        </div>
+        <a href="https://www.youtube.com/watch?v=NDxL6yMNiXE" target="_blank">Latest Montage</a>
+    </div>
+
+    <div class="player">
+        <div class="name">Steppa</div>
+        <div class="rank">PR10 High, R10 High (Best player OAT)</div>
+        <div class="achievements">
+            <b>Achievements:</b>
+            <ul>
+                <li>Season 5 Ring + MVP (MCL)</li>
+                <li>Season 6 Ring (MCL)</li>
+                <li>Season 7 Ring (MCL)</li>
+                <li>Season 1 Ring (LOC)</li>
+                <li>Season 2 Draft (MCL)</li>
+                <li>Season 3 Ring + MVP (LOC)</li>
+                <li>Season 4 Ring (LOC)</li>
+            </ul>
+        </div>
+        <a href="#">N/A</a>
+    </div>
+
+    <div class="player">
+        <div class="name">Worst</div>
+        <div class="rank">PR10 High, R10 Low (Top 3 perk player)</div>
+        <div class="achievements"><b>Achievements:</b> N/A</div>
+        <a href="https://www.youtube.com/watch?v=VmFuTdBMkPk&t=26s" target="_blank">Latest Montage</a>
+    </div>
+
+    <div class="player">
+        <div class="name">Bankroll</div>
+        <div class="rank">PR10 Mid, R10 High</div>
+        <div class="achievements">
+            <b>Achievements:</b>
+            <ul>
+                <li>Season 2 Ring (LOC)</li>
+            </ul>
+        </div>
+        <a href="https://www.youtube.com/watch?v=dU0llYDVAD0" target="_blank">Latest Montage</a>
+    </div>
+
+    <div class="player">
+        <div class="name">Uchi</div>
+        <div class="rank">PR9 Mid, R10 High</div>
+        <div class="achievements">
+            <b>Achievements:</b>
+            <ul>
+                <li>Season 7 Ring (MCL)</li>
+                <li>Season 2 Draft (MCL)</li>
+                <li>Season 3 Ring (LOC)</li>
+                <li>Season 4 Ring (LOC)</li>
+            </ul>
+        </div>
+        <a href="https://www.youtube.com/watch?v=gl8HzeWD1N0&t=9s" target="_blank">Latest Montage</a>
+    </div>
+
+    <div class="player">
+        <div class="name">Cursed</div>
+        <div class="rank">PR10 Low, R9 Mid</div>
+        <div class="achievements">
+            <b>Achievements:</b>
+            <ul>
+                <li>Season 1 Draft (MCL)</li>
+            </ul>
+        </div>
+        <a href="https://www.youtube.com/watch?v=LBII5YmsrHs&t=8s" target="_blank">Latest Montage</a>
+    </div>
+
+    <div class="player">
+        <div class="name">Synafanic</div>
+        <div class="rank">R10 High</div>
+        <div class="achievements">
+            <b>Achievements:</b>
+            <ul>
+                <li>Season 2 Ring + MVP (MCL)</li>
+                <li>Season 3 Ring + MVP (MCL)</li>
+                <li>Season 6 Ring (MCL)</li>
+                <li>Season 7 Ring (MCL)</li>
+                <li>Season 1 Ring (LOC)</li>
+            </ul>
+        </div>
+        <a href="https://www.youtube.com/watch?v=B68s4ayrBJk&t=7s" target="_blank">Latest Montage</a>
+    </div>
+
+</div>
+
+</body>
+</html>
